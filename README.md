@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Maksym Kryvenko / mak276@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I enjoy playing soccer.
+*   I miss my cat.
+*   I have never seen aliens.
 
 ---
 Make some changes locally.  I want to add  a sentence.
